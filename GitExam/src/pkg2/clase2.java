@@ -2,8 +2,8 @@ package pkg2;
 
 public class clase2 {
 	//Pequeño programa con string
-	String cevix="refachero";
-	String rodrix="patata";
+	String cevix="romantico";
+	String rodrix="alcachofa";
 			
-	String frase="A rodrigo le gusta"+rodrix+" y Yamir es "+ cevix;
+	String frase="rodrigo odia las "+rodrix+" y Yamir es todo un  "+ cevix;
 }
