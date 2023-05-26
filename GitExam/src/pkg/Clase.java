@@ -4,11 +4,11 @@ public class Clase {
 
 	public static void main(String[] args) {
 		//suma sencilla
-		int num1=2;
-		int num2=5;
-		int num3;
+		int numeroA=2;
+		int numeroB=5;
+		int numeroC;
 		
-		num3=num2+num1;
+		numeroC=numeroB+numeroA;
 
 	}
 
