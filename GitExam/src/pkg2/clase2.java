@@ -3,7 +3,7 @@ package pkg2;
 public class clase2 {
 	//Pequeño programa con string
 	String cevix="refachero";
-	String rodrix="patata";
+	String rodrix="valoran";
 			
-	String frase="A rodrigo le gusta"+rodrix+" y Yamir es "+ cevix;
+	String frase="A ivan le gusta"+rodrix+" y Yamir es "+ cevix;
 }
